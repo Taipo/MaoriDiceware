@@ -1,8 +1,16 @@
-# MaoriDiceware
-Maori Diceware Password Generation
+# Maori Diceware Word List
+For the word list see: https://github.com/Taipo/MaoriDiceware/blob/master/diceware_maori.txt
+The aim is to create a pass phrase of 7 or more words from the Maori word list above.
 
-Intention is for an offline javascript html page to generate high entropy diceware passwords using Maori words.
+An example pass phrase is: ropaka taitoa koitio rewena kanoae hirori hamama merari
 
-Premise: 10 ( or more ) Maori words randomly generated from 12,585 word list is log2( 12585^10 / 2 ) = 135.19 bits.
+##Instructions
+1/ Roll a dice 5 times and recording each roll creates a 5 digit number,  example 5 rolls of 2 6 3 5 1 = 26351
+2/ Find the word associated with 26351 = korehu, this becomes your first word.
+3/ Repeat this until you have generated at least 7 words. Preferably you should aim for 10 words.
 
-Looking currently at the entropy collection and other concepts from https://github.com/cantonbecker/bitcoinpaperwallet
+##The Math
+7 words from a word list of 7776 words: log2(7776^7 /2) = 89.47 bits
+8 words from a word list of 7776 words: log2(7776^8 /2) = 102.39 bits
+9 words from a word list of 7776 words: log2(7776^9 /2) = 115.32 bits
+10 words from a word list of 7776 words: log2(7776^10 /2) = 128.24 bits

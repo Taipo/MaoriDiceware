@@ -435,7 +435,7 @@
 13113 awatea
 13114 awatu
 13115 awe
-13116 aweawe
+13116 aweko
 13121 awhata
 13122 awhato
 13123 awhatu
@@ -1325,8 +1325,8 @@
 21155 huia
 21156 huinga
 21161 huie
-21162 huirau
-21163 huiroa
+21162 huihui
+21163 huirau
 21164 huirua
 21165 huitau
 21166 huka
@@ -1348,8 +1348,8 @@
 21234 humene
 21235 humuta
 21236 huna
-21241 hunaki
-21242 hunama
+21241 hunaia
+21242 hunaki
 21243 hunawi
 21244 hune
 21245 hunene
@@ -1482,7 +1482,7 @@
 21616 inanga
 21621 inapea
 21622 inarua
-21623 inatio
+21623 inati
 21624 ineaho
 21625 inehia
 21626 inehou
@@ -2121,8 +2121,8 @@
 24563 kiaria
 24564 kiatu
 24565 kiekie
-24566 kihi
-24611 kihiki
+24566 kihai
+24611 kihi
 24612 kihini
 24613 kihipa
 24614 kihira
@@ -2380,7 +2380,7 @@
 26114 konati
 26115 konatu
 26116 kone
-26121 konehu
+26121 konei
 26122 koneke
 26123 koneki
 26124 konene
@@ -2608,7 +2608,7 @@
 31134 kowera
 31135 kowhai
 31136 kowhao
-31141 kowhau
+31141 kowhatu
 31142 kowhio
 31143 kowhiu
 31144 kowiri
@@ -2772,7 +2772,7 @@
 31566 mahoro
 31611 mahoui
 31612 mahu
-31613 mahuia
+31613 mahue
 31614 mahuka
 31615 mahuki
 31616 mahuna
@@ -2901,7 +2901,7 @@
 32343 manaia
 32344 manaka
 32345 manake
-32346 manaki
+32346 manaaki
 32351 manako
 32352 manana
 32353 mananga
@@ -2956,7 +2956,7 @@
 32514 mapura
 32515 maputu
 32516 mara
-32521 maraea
+32521 marae
 32522 maraka
 32523 marake
 32524 maraki
@@ -3046,7 +3046,7 @@
 33144 matawi
 33145 mate
 33146 matena
-33151 matene
+33151 matenui
 33152 matepa
 33153 matera
 33154 matere
@@ -3091,7 +3091,7 @@
 33261 maturu
 33262 matutu
 33263 mau
-33264 maua
+33264 mauhoro
 33265 maui
 33266 mauiui
 33311 maumau
@@ -3275,7 +3275,7 @@
 34165 mohiku
 34166 mohina
 34211 mohinu
-34212 mohiro
+34212 mohio
 34213 mohiti
 34214 mohito
 34215 mohoao
@@ -4115,7 +4115,7 @@
 42125 pakahi
 42126 pakaka
 42131 pakake
-42132 pakaku
+42132 pakanga
 42133 pakani
 42134 pakano
 42135 pakara
@@ -4787,8 +4787,8 @@
 45165 popoto
 45166 popoua
 45211 pora
-45212 poraka
-45213 porana
+45212 porahu
+45213 poraka
 45214 porara
 45215 poraru
 45216 porehe
@@ -4880,7 +4880,7 @@
 45442 pouora
 45443 poupou
 45444 pourau
-45445 pourua
+45445 pouri
 45446 poutoa
 45451 poutou
 45452 poutua
@@ -5067,7 +5067,7 @@
 46353 pura
 46354 puraho
 46355 purahui
-46356 puraka
+46356 purakau
 46361 puraku
 46362 purama
 46363 puramu
@@ -5337,7 +5337,7 @@
 51523 ratara
 51524 ratare
 51525 ratari
-51526 ratawa
+51526 ratau
 51531 ratere
 51532 ratihi
 51533 ratima
@@ -6186,7 +6186,7 @@
 55456 taukai
 55461 taukau
 55462 taumai
-55463 taumau
+55463 taumata
 55464 taumou
 55465 taumua
 55466 taunga
@@ -6244,8 +6244,8 @@
 55634 tawha
 55635 tawhai
 55636 tawhao
-55641 tawhia
-55642 tawhiao
+55641 tawhiao
+55642 tawhiti
 55643 tawhito
 55644 tawhiu
 55645 tawini
@@ -6391,7 +6391,7 @@
 56441 tihore
 56442 tihori
 56443 tika
-56444 tikaku
+56444 tikanga
 56445 tikapa
 56446 tikape
 56451 tikapu
@@ -6798,7 +6798,7 @@
 62356 tuangi
 62361 tuanui
 62362 tuaoma
-62363 tuaone
+62363 tuao
 62364 tuaono
 62365 tuapae
 62366 tuapou
@@ -6808,7 +6808,7 @@
 62414 tuarea
 62415 tuaroa
 62416 tuarua
-62421 tuatau
+62421 tuatahi
 62422 tuatea
 62423 tuatua
 62424 tuauau
@@ -7221,7 +7221,7 @@
 64343 urupou
 64344 urupu
 64345 ururoa
-64346 ururu
+64346 uruuru
 64351 ururua
 64352 urutapu
 64353 urutau
@@ -7351,7 +7351,7 @@
 65121 waipoa
 65122 waipu
 65123 waipua
-65124 waipui
+65124 waipuke
 65125 waira
 65126 wairau
 65131 wairea
@@ -7536,7 +7536,7 @@
 65626 werua
 65631 weruru
 65632 weta
-65633 wetahu
+65633 wetahi
 65634 wetara
 65635 wetea
 65636 wetehi
@@ -7582,14 +7582,14 @@
 66144 whakao
 66145 whakapa
 66146 whakata
-66151 whaki
+66151 whakatu
 66152 whakia
 66153 whako
 66154 whakou
 66155 whana
 66156 whanau
 66161 whanga
-66162 whangi
+66162 whangai
 66163 whango
 66164 whano
 66165 whanoa

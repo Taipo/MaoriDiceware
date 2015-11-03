@@ -1,3 +1,6 @@
+* This wordlist is compiled from Maori dictionaries, Maori names, place names and compound words.
+* See https://github.com/Taipo/MaoriDiceware/blob/master/README.md for Diceware instructions
+
 11111 aehana
 11112 aehiru
 11113 aera

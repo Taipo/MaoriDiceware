@@ -256,7 +256,7 @@
 12214 apuroa
 12215 apuru
 12216 aputea
-12221 araha
+12221 ara
 12222 arahia
 12223 arahoe
 12224 araita
@@ -636,7 +636,7 @@
 13646 hanene
 13651 hanepi
 13652 haneti
-13653 hangai
+13653 hanga
 13654 hani
 13655 hanina
 13656 hanita
@@ -1160,7 +1160,7 @@
 16322 hoiho
 16323 hoihoi
 16324 hoka
-16325 hokaia
+16325 hokai
 16326 hokako
 16331 hokari
 16332 hokata
@@ -1285,7 +1285,7 @@
 16651 huahua
 16652 huaina
 16653 huaira
-16654 huakau
+16654 huaki
 16655 huamai
 16656 huamoa
 16661 huanga
@@ -2678,7 +2678,7 @@
 31332 kunari
 31333 kunatu
 31334 kune
-31335 kunere
+31335 kunenga
 31336 kungia
 31341 kuni
 31342 kupapa
@@ -3408,7 +3408,7 @@
 34546 mourea
 34551 mourei
 34552 moutoa
-34553 mowaho
+34553 mowai
 34554 mowaru
 34555 mowata
 34556 mowiti
@@ -5374,7 +5374,7 @@
 51624 raupua
 51625 raurau
 51626 rauroa
-51631 raurua
+51631 rauru
 51632 rautao
 51633 rautau
 51634 rautea
@@ -5781,7 +5781,7 @@
 53543 tahutu
 53544 tai
 53545 taiaha
-53546 taiaia
+53546 taiao
 53551 taiaka
 53552 taiaki
 53553 taiama
@@ -5813,7 +5813,7 @@
 53635 taiope
 53636 taiora
 53641 taiore
-53642 taipua
+53642 taipo
 53643 tairea
 53644 tairei
 53645 tairoa
@@ -7280,7 +7280,7 @@
 64522 waheke
 64523 wahi
 64524 wahia
-64525 wahie
+64525 wahiawa
 64526 wahike
 64531 wahiki
 64532 wahina
@@ -7707,7 +7707,7 @@
 66513 whiua
 66514 whiuke
 66515 whiwhi
-66516 whoroa
+66516 whiwhia
 66521 whota
 66522 whounu
 66523 whuia

@@ -1,7 +1,7 @@
-# Maori Diceware Word List
+# Māori Diceware Word List
 For the word list see: https://github.com/Taipo/MaoriDiceware/blob/master/diceware_maori.txt
 
-The aim is to create a pass phrase of 7 or more words from the Maori word list above.
+The aim is to create a pass phrase of 7 or more words from the Māori word list above.
 
 An example pass phrase is: korehu tipu kotiro rewena kanohi hitori aotea
 

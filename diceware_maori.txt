@@ -1793,7 +1793,7 @@
 23252 kapata
 23253 kapawa
 23254 kape
-23255 
+23255 kapea
 23256 kapeka
 23261 kapene
 23262 kapera
@@ -4819,7 +4819,7 @@
 45254 poronga
 45255 poronui
 45256 poropiti
-45261 poroporo  
+45261 poroporo
 45262 pororaru
 45263 porori
 45264 poroteke
@@ -5150,7 +5150,7 @@
 46565 putiro
 46566 putiwha
 46611 putohe
-46612 putoi
+46612 putoi <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 46613 putoki
 46614 putoko
 46615 putono

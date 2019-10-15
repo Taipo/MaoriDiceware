@@ -242,7 +242,7 @@
 12144 apiama
 12145 apiata
 12146 apiha
-12151 api
+12151 apihi
 12152 apiti
 12153 apiuru
 12154 apo
@@ -565,8 +565,8 @@
 13443 hakete
 13444 haketi
 13445 haki
-13446 hakiki
-13451 haki
+13446 hakia
+13451 hakiki
 13452 hakina
 13453 hakini
 13454 hakiri
@@ -619,7 +619,7 @@
 13613 hamora
 13614 hamore
 13615 hamu
-13616 hamu
+13616 hamuhamu
 13621 hamure
 13622 hamuri
 13623 hamuti
@@ -630,7 +630,7 @@
 13632 hanake
 13633 hanaka
 13634 hanana
-13635 hanake
+13635 hanapu
 13636 hanarei
 13641 hanata
 13642 hanati
@@ -925,7 +925,7 @@
 15243 here
 15244 herehere
 15245 hereka
-15246 heretu
+15246 hereko
 15251 heremana
 15252 heremi
 15253 herena
@@ -1115,7 +1115,7 @@
 16161 hitona
 16162 hitoro
 16163 hitori
-16164 hitoro
+16164 hitoria
 16165 hitoru
 16166 hituri
 16211 hiwa
@@ -1280,7 +1280,7 @@
 16634 houhia
 16635 houhu
 16636 houmea
-16641 hou
+16641 houmia
 16642 houroa
 16643 hourua
 16644 howita
@@ -2072,7 +2072,7 @@
 24434 kerawera
 24435 kere
 24436 kerehi
-24441 kerei
+24441 kereho
 24442 kerei
 24443 kereia
 24444 kerekere
@@ -2109,7 +2109,7 @@
 24535 ki
 24536 kia
 24541 kiakia
-24542 kiki
+24542 kiani
 24543 kiaora
 24544 kiaoranga
 24545 kiaria
@@ -2120,7 +2120,7 @@
 24554 kihi
 24555 kihikihi
 24556 kihini
-24561 kihipa
+24561 kihinu
 24562 kihipa
 24563 kihiroa
 24564 kiki
@@ -2306,13 +2306,13 @@
 25464 kokuta
 25465 koma
 25466 komahi
-25511 komahi
+25511 komai
 25512 komako
 25513 komama
 25514 komaoa
 25515 komara
 25516 komata
-25521 komene
+25521 komau
 25522 komeke
 25523 komekemeke
 25524 komeme
@@ -2525,7 +2525,7 @@
 26511 kotari
 26512 kotaru
 26513 kotata
-26514 kotata
+26514 kotate
 26515 kotawa
 26516 kotawe
 26521 kote
@@ -3272,7 +3272,7 @@
 34154 momohoa
 34155 momohotia
 34156 momona
-34161 momona
+34161 momonaake
 34162 momonatia
 34163 momore
 34164 momorenga
@@ -3307,7 +3307,7 @@
 34253 morare
 34254 moraro
 34255 more
-34256 more
+34256 morea
 34261 morehu
 34262 moremore
 34263 morena
@@ -4009,7 +4009,7 @@
 41423 paea
 41424 paeata
 41425 paehau
-41426 paehau
+41426 paehautia
 41431 paehua
 41432 paekai
 41433 paekoa
@@ -4505,7 +4505,7 @@
 43611 piakoroa
 43612 piana
 43613 piapia
-43614 piauau
+43614 piarau
 43615 piari
 43616 piariari
 43621 piata
@@ -4662,7 +4662,7 @@
 44432 piwawa
 44433 piwekeweke
 44434 piwhara
-44435 piwhara
+44435 piwharau
 44436 piwhi
 44441 po
 44442 poa
@@ -4706,7 +4706,7 @@
 44544 pohuhu
 44545 pohuka
 44546 pohuri
-44551 pohuri
+44551 pohuria
 44552 pohutu
 44553 poi
 44554 poihakena
@@ -4886,7 +4886,7 @@
 45444 powhiri
 45445 powiri
 45446 pu
-45451 pua
+45451 puu
 45452 pua
 45453 puaha
 45454 puahi
@@ -5483,7 +5483,7 @@
 52321 reuere
 52322 reupia
 52323 reureu
-52324 rewena
+52324 rewa
 52325 rewara
 52326 rewatu
 52331 rewena
@@ -5717,7 +5717,7 @@
 53351 ruwiki
 53352 tae
 53353 taea
-53354 tae
+53354 taeatu
 53355 taekai
 53356 taenga
 53361 taeore
@@ -6857,13 +6857,13 @@
 62531 tuhuru
 62532 tuhuti
 62533 tuia
-62534 tuia
-62535 tuinga
-62536 tuinui
-62541 tuirau
-62542 tuiria
-62543 tuitao
-62544 tuitui
+62534 tuinga
+62535 tuinui
+62536 tuirau
+62541 tuiria
+62542 tuitao
+62543 tuitui
+62544 tuituia
 62545 tuka
 62546 tukaka
 62551 tukaki
@@ -7567,7 +7567,7 @@
 66113 whahau
 66114 whahi
 66115 whahia
-66116 whaea
+66116 whai
 66121 whaia
 66122 whaiao
 66123 whaika
@@ -7627,8 +7627,8 @@
 66253 whaupa
 66254 whaura
 66255 whauri
-66256 wha
-66261 whawha
+66256 whawha
+66261 whauwhau
 66262 whea
 66263 wheako
 66264 wheau
